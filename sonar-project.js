@@ -5,7 +5,7 @@ sonarqubeScanner({
        options : {
 	    'sonar.projectDescription': 'This is a Angular JS application',
 	    'sonar.projectName': 'Angular JS Application - Sample',
-	    'sonar.projectKey':'NodeJsMithunTechnologies',
+	    'sonar.projectKey':'AngularJsMithunTechnologies',
 	    'sonar.login': 'admin',
 	    'sonar.password': 'admin1',
             'sonar.projectVersion':'1.0',
